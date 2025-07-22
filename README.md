@@ -15,3 +15,7 @@ To Install:
 git clone https://github.com/shuqite/astolfo_fetch.git
 '''
 
+To Run:
+'''sh
+cd astolfo_fetch && bash astolfo_fetch.sh
+'''
