@@ -11,11 +11,11 @@ Ready:
 
 
 To Install:
-'''sh 
+```sh
 git clone https://github.com/shuqite/astolfo_fetch.git
-'''
+```
 
 To Run:
-'''sh
+```sh
 cd astolfo_fetch && bash astolfo_fetch.sh
-'''
+```
